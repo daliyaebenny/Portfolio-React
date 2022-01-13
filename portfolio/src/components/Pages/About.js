@@ -1,4 +1,6 @@
 import React from 'react';
+import 'bootstrap/dist/css/bootstrap.css';
+import './style.css';
 
 export default function About(){
     return (
