@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/daliya-benny/"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/daliyaebenny"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:daliyaebenny@gmail.com"
+        }
+    ]
+}

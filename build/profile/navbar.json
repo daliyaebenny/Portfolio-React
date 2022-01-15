@@ -1,0 +1,35 @@
+{
+   
+    "sections": [
+        {
+            "title": "Home",
+            "href": "/"
+        },
+        {
+            "title": "About",
+            "href": "/about"
+        },
+        {
+            "title": "Skills",
+            "href": "/skills"
+        },
+        {
+            "title": "Education",
+            "href": "/education"
+        },
+        {
+            "title": "Experience",
+            "href": "/experience"
+        },
+        {
+            "title": "Projects",
+            "href": "/projects"
+        },
+        {
+            "title": "Resume",
+            "href": "https://docs.google.com/document/d/19sP6oue3Bl23TNwNSu_7GcMnhwJPesSY/edit?usp=sharing&ouid=104319911616342472541&rtpof=true&sd=true",
+            "type": "link"
+        }
+    ]
+
+}
