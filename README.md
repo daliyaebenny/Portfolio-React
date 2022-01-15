@@ -83,7 +83,8 @@ npm run deploy
 
 The following image shows the web application's appearance 
 
-![portfolio mobile demo](./assets/img/mobile.png) 
+![portfolio demo](./images/ReactPortfolio.png)   
+
 ## Links 
 * [*GitHub repository*](https://github.com/daliyaebenny/Portfolio-React.git)   
 * [*Deployed Application*](https://daliyaebenny.github.io/Portfolio-React/#/)
