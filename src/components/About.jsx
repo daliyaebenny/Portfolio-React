@@ -13,7 +13,7 @@ const styles = {
     flexDirection: 'column',
     whiteSpace: 'pre-wrap',
     textAlign: 'left',
-    fontSize: '1.2em',
+    fontSize: '1.6em',
     fontWeight: 500,
   },
   introImageContainer: {
@@ -21,6 +21,10 @@ const styles = {
     justifyContent: 'center',
     alignItems: 'center',
     display: 'flex',
+  },
+  image: {
+    width: '80%',
+    height: '100%',
   },
 };
 
@@ -56,8 +60,7 @@ function About(props) {
                     {parseIntro(data.about)}
                   </Col>
                   <Col style={styles.introImageContainer}>
-                    <img src={data?.imageSource} alt="profile" style={{height: '90%', width: '60%',}} />
-                    {/* style ={'height:10%,width:10%'} */}
+                    <img style={styles.image} src={data?.imageSource} alt="profile" />
                   </Col>
                 </Row>
               </Fade>
