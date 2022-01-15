@@ -1,0 +1,25 @@
+{
+    "experiences": [
+        {
+            "title": "Systems Engineer",
+            "subtitle": "Infosys Ltd",
+            "workType": "Full-time",
+            "workDescription": [
+                "Involved in Development activities of reverse engineering a WCS Built project to Java.",
+                "Created Rest based Web service to compute ship charge of Commodity.",
+                "Tools/Languages: Java/J2ee, Spring, REST Web services, Maven, Angular JS, JBOSS, Eclipse IDE, Skype for Business"
+            ],
+            "dateText": "2014 – 2016"
+        },
+        {
+            "title": "Software Engineer",
+            "subtitle": "Non-Profit Organization",
+            "workType": "Voluntary",
+            "workDescription": [
+                "Work with other team members to design and implement an API for the login and registration modules of an application",
+                "Tools/Languages: Java, JSON, Struct2, Maven, Angular JS, GitHub, Eclipse IDE, join me, Skype."
+            ],
+            "dateText": "2016 – 2017"
+        }
+    ]
+}

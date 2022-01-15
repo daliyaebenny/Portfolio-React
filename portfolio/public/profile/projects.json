@@ -1,0 +1,150 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/musictrivia2.png",
+            "title": "Music Trivia 2",
+            "bodyText": "With the new and improved Music Trivia 2.0, the user can now create an account.The registered owner can login and logout.Once logged in, the registered owner can now look at past highscores of trivias that were taken.The registered owner can lastly search for music videos that are related to the questions that were answered.The registered owner will also hear the Jeopardy Theme Song whilst playing the game.Newer website layout and added company logo",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/ChonaC/Project-2-MUSICTRIVIA.git"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://protected-falls-91774.herokuapp.com/login"
+                }
+            ],
+            "tags" : [
+                "React",
+                "Portfolio",
+                "JavaScript"
+            ]
+        },
+        {
+            "image" : "images/projects/moviecatalog.png",
+            "title": "Movie Catalog",
+            "bodyText": "Web application to find information about Movies and store your favorite Movie in Favorites section to watch later.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/daliyaebenny/Movie-Search.git"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://daliyaebenny.github.io/Movie-Search/"
+                }
+            ],
+            "tags" : [
+                "Python",
+                "Django",
+                "BootStrap",
+                "SendGrid",
+                "Heroku",
+                "Gunicorn",
+                "VIT"
+            ]
+        },
+        {
+            "image" : "images/projects/quiet-hours-poster.jpg",
+            "title": "Quiet Hours App",
+            "bodyText": "- An Android App that **automatically silences** your phone during class hours, designed for **VITians**.\n - Option to select class **slots** and **custom time**.\n - Option to put on Vibrate instead of Silent.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/mayankagarwal09/QuietHours-Android"
+                }
+            ],
+            "tags" : [
+                "Java",
+                "Android",
+                "Alarm Manager",
+                "VIT"
+            ]
+        },
+        {
+            "title": "Secure Chat App",
+            "bodyText": "- An Android App that allows users to send texts in real time.\n - End to End encryption using **RSA** Algorithm.\n - Uses **Firebase** database to store texts.\n - Secured with **Fingerprint** lock.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/mayankagarwal09/SecureChatApp"
+                }
+            ],
+            "tags" : [
+                "Java",
+                "Android",
+                "Firebase",
+                "RSA"
+            ]
+        },
+        {
+            "title": "MVVM Sample App",
+            "bodyText": "- An Android App that loads data from mock API and show in both **LinearLayout** and **GridLayout RecyclerView**.\n - Offline support using **Room** DB and **NetworkBoundResource**.\n - Uses the **MVVM** architecture.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/mayankagarwal09/mvvm-sample-app"
+                }
+            ],
+            "tags" : [
+                "Kotlin",
+                "Android",
+                "MVVM",
+                "Room",
+                "Coroutines",
+                "Flow",
+                "Hilt-Dagger",
+                "NetworkBoundResource"
+            ]
+        },
+        {
+            "title": "Feed List App",
+            "bodyText": "- An Android App that loads list of feeds from a **paginated** API and shows in a RecyclerView.\n - Uses the **MVVM** architecture.\n - Uses **Paging 3** library along with other Architecture Components.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/mayankagarwal09/Paginated-App-Feeds-List"
+                }
+            ],
+            "tags" : [
+                "Kotlin",
+                "Android",
+                "MVVM",
+                "Paging 3",
+                "Coroutines",
+                "Flow"
+            ]
+        },
+        {
+            "title": "Task Tracker",
+            "bodyText": "- A simple Task Tracker web app made with **Angular 12**.\n - Uses **mock JSON server** to get, add, delete or update tasks.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/mayankagarwal09/task-tracker-app"
+                }
+            ],
+            "tags" : [
+                "TypeScript",
+                "Angular 12",
+                "JavaScript"
+            ]
+        },
+        {
+            "title": "Image Encryption/Decryption",
+            "bodyText": "- A Web App for Image Encryption and Decryption made in **Django**.\n - Uses **SDES** algorithm for encryption/decryption.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/mayankagarwal09/img-encrypt-sdes"
+                }
+            ],
+            "tags" : [
+                "Python",
+                "Django",
+                "SDES",
+                "Cryptography"
+            ]
+        }
+    ]
+}
