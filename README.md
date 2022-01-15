@@ -76,7 +76,14 @@ Now is the time to deploy the React app to GitHub Pages. To do this, run the fol
 
 ```sh
 npm run deploy
+
 ```
+
+## Mock-Up
+
+The following image shows the web application's appearance 
+
+![portfolio mobile demo](./assets/img/mobile.png) 
 ## Links 
 * [*GitHub repository*](https://github.com/daliyaebenny/Portfolio-React.git)   
 * [*Deployed Application*](https://daliyaebenny.github.io/Portfolio-React/#/)
